@@ -16,4 +16,8 @@ export default {
     tabIconDefault: '#ccc',
     tabIconSelected: tintColorDark,
   },
+
+  cardTop:{
+    backgroundColor:'#98d8ae'
+  }
 };

@@ -1,0 +1,27 @@
+[
+{
+  "id": "1",
+  "price": "12 345",
+  "code": "2291",
+  "background" :{
+      "color1":"#12c2e9",
+      "color2" :"#c471ed",
+      "color3" :"#f64f59"
+  },
+  "icon" : "cc-visa"
+},
+{
+    "id": "2",
+    "price": "1 456",
+    "code": "4589",
+    "icon" : "amazon-pay"
+  },
+  {
+    "id": "3",
+    "price": "15 245",
+    "code": "1089",
+    "icon" : "apple-pay"
+  }
+  
+
+]
